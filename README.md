@@ -1,29 +1,43 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+<img width="87" alt="Schermafbeelding 2023-01-16 om 16 55 06" src="https://user-images.githubusercontent.com/112856019/212719632-e141f169-fbad-442e-b452-04858c986cec.png">
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+## Opdracht
 
-## Inhoudsopgave
+Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen. 
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
-
+Userstory: Er kunnen vragen worden gesteld aan een gebruiker over zijn / haar Mini. Zo kan er een advies worden gegeven over wanneer en in welke hoeveelheid wat voor producten aan het kind kunnen worden gegeven
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+Vini Mini heeft als missie om voedselallergie te voorkomen bij baby’s. Hiervoor bieden ze gezonde, makkelijke en betrouwbare voedingssupplementen voor baby’s om te wenne naan bepaalde allergenen. Nu alleen nog voor pinda, maar het doel is om hier ei, noten en andere allergenen aan toe te voegen.
+<img width="1432" alt="Schermafbeelding 2023-01-16 om 16 57 38" src="https://user-images.githubusercontent.com/112856019/212720200-eef8dfa8-16a4-433e-b83d-865606671b52.png">
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
+### HTML:
+Header
+
+Main
+
+Section
+
+Form
+
+
+
+### CSS:
+
+Display
+
+Nav
+
+Blog
 
 
 ## Bronnen
 
-## Licentie
+Vini Mini: https://vinimini.nl/
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+FDND Task: https://github.com/fdnd/task
+
+FDND Agency:https://github.com/fdnd-agency
 
 This work is licensed under [GNU GPLv3](./LICENSE).
