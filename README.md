@@ -4,7 +4,7 @@
 
 Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen. 
 
-Userstory: Er kunnen vragen worden gesteld aan een gebruiker over zijn / haar Mini. Zo kan er een advies worden gegeven over wanneer en in welke hoeveelheid wat voor producten aan het kind kunnen worden gegeven
+Userstory: Als ouder wil ik bij het openen van Mijn Vini Mini persoonlijk advies behorende bij de betreffende dag kunnen lezen, zodat de kans op een allergische reactie bij mijn kind kleiner wordt
 ## Beschrijving
 
 Vini Mini heeft als missie om voedselallergie te voorkomen bij baby’s. Hiervoor bieden ze gezonde, makkelijke en betrouwbare voedingssupplementen voor baby’s om te wenne naan bepaalde allergenen. Nu alleen nog voor pinda, maar het doel is om hier ei, noten en andere allergenen aan toe te voegen.
